@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-weight: 600;
+    color: darkred;
+}
+
+img {
+    text-align: center;
+    background-size: auto;
+    margin-bottom: 20px;
+}
