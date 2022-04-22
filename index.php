@@ -14,8 +14,8 @@ $f3 = Base::instance();
 $f3->route('GET /', function () {
     echo '<h1>Pet Home</h1>';
 
-//    $view = new Template();
-//    echo $view->render('views/home.html');
+    $view = new Template();
+    echo $view->render('views/home.html');
     }
 );
 
